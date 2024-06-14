@@ -1,0 +1,3 @@
+- tailwind css
+- cdn animate.css
+- phpmailer
