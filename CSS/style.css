@@ -1,0 +1,34 @@
+.bg-hero {
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    animation: slideBackground 10s infinite alternate;
+}
+
+@keyframes slideBackground {
+    0% {
+        background-image: url('images/plaza-oleos.jpg');
+    }
+    50% {
+        background-image: url('images/havenwood.jpg');
+    }
+    100% {
+        background-image: url('images/plaza-oleos.jpg');
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.logo {
+    height: 50px; /* Adjust the height as needed */
+}
+
+/* Zoom animation */
+.project-title {
+    transition: transform 0.3s;
+}
+
+.project-title:hover {
+    transform: scale(1.1);
+}
