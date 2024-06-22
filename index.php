@@ -116,75 +116,75 @@
                 The Roheda Group's depth of expertise allows it to deliver sustainable returns to all shareholders</p>
         </div>
     </section>
-<!-- Projects Section -->
-<section id="projects" class="container mx-auto px-4 py-20 text-center">
-    <div class="text-center mb-12">
-        <h2 class="text-4xl font-bold mb-4">Our Projects</h2>
-        <p class="text-gray-600">Explore our exclusive projects that define luxury living.</p>
-    </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="Plaza Oleos" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Plaza Oleos is the first office space to offer the biggest building floorplate in Jalan TB Simatupang, South Jakarta." data-image="images/commercial.jpg">Plaza Oleos</h3>
+    <!-- Projects Section -->
+    <section id="projects" class="container mx-auto px-4 py-20 text-center">
+        <div class="text-center mb-12">
+            <h2 class="text-4xl font-bold mb-4">Our Projects</h2>
+            <p class="text-gray-600">Explore our exclusive projects that define luxury living.</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/commercial.jpg" alt="Plaza Oleos" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Plaza Oleos is the first office space to offer the biggest building floorplate in Jalan TB Simatupang, South Jakarta." data-image="images/commercial.jpg">Plaza Oleos</h3>
+                </div>
+            </div>
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/onewolterplace.jpg" alt="One Wolter Place" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/onewolterplace.jpg">One Wolter Place</h3>
+                </div>
+            </div>
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/complex jervois.jpg" alt="Complex Jervois" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/complex jervois.jpg">Complex Jervois</h3>
+                </div>
+            </div>
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/complex teladan.jpg" alt="Complex Teladan" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/complex teladan.jpg">Complex Teladan</h3>
+                </div>
+            </div>
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/kemang satoe residence.jpg" alt="Kemang Satoe Residence" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/kemang satoe residence.jpg">Kemang Satoe Residence</h3>
+                </div>
+            </div>
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/kemang 1d.jpg" alt="Kemang 1D" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/kemang 1d.jpg">Kemang 1D</h3>
+                </div>
+            </div>
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/the villas kebagusan.jpg" alt="The Villas Kebagusan" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/the villas kebagusan.jpg">The Villas Kebagusan</h3>
+                </div>
+            </div>
+            <div class="bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="images/the briz.jpg" alt="The Briz" class="w-full">
+                <div class="p-4">
+                    <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/the briz.jpg">The Briz</h3>
+                </div>
             </div>
         </div>
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="One Wolter Place" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/commercial.jpg">One Wolter Place</h3>
-            </div>
-        </div>
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="Complex Jervois" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/commercial.jpg">Complex Jervois</h3>
-            </div>
-        </div>
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="Complex Teladan" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/commercial.jpg">Complex Teladan</h3>
-            </div>
-        </div>
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="Kemang Satoe Residence" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/commercial.jpg">Kemang Satoe Residence</h3>
-            </div>
-        </div>
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="Kemang 1D" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/commercial.jpg">Kemang 1D</h3>
-            </div>
-        </div>
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="The Villas Kebagusan" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/commercial.jpg">The Villas Kebagusan</h3>
-            </div>
-        </div>
-        <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-            <img src="images/commercial.jpg" alt="The Briz" class="w-full">
-            <div class="p-4">
-                <h3 class="text-2xl font-bold mb-2 project-title" data-description="Short description of the project." data-image="images/commercial.jpg">The Briz</h3>
-            </div>
-        </div>
-    </div>
-</section>
+    </section>
 
-<!-- Modal -->
-<div id="projectModal" class="fixed inset-0 bg-gray-800 bg-opacity-75 flex items-center justify-center hidden">
-    <div class="bg-white rounded-lg overflow-hidden max-w-3xl w-full flex">
-        <img id="modalImage" src="" alt="Project Image" class="w-1/2">
-        <div class="p-4 w-1/2 relative">
-            <button id="closeModal" class="absolute top-2 right-2 text-gray-700">&times;</button>
-            <h3 id="modalTitle" class="text-2xl font-bold mb-2"></h3>
-            <p id="modalDescription" class="text-gray-600"></p>
+    <!-- Modal -->
+    <div id="projectModal" class="fixed inset-0 bg-gray-800 bg-opacity-75 flex items-center justify-center hidden">
+        <div class="bg-white rounded-lg overflow-hidden max-w-3xl w-full flex">
+            <img id="modalImage" src="" alt="Project Image" class="w-1/2">
+            <div class="p-4 w-1/2 relative">
+                <button id="closeModal" class="absolute top-2 right-2 text-gray-700">&times;</button>
+                <h3 id="modalTitle" class="text-2xl font-bold mb-2"></h3>
+                <p id="modalDescription" class="text-gray-600"></p>
+            </div>
         </div>
     </div>
-</div>
 
 
 <!-- Contact Section -->
@@ -317,39 +317,34 @@
 </script>
 
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-    const projectTitles = document.querySelectorAll('.project-title');
-    const modal = document.getElementById('projectModal');
-    const modalImage = document.getElementById('modalImage');
-    const modalTitle = document.getElementById('modalTitle');
-    const modalDescription = document.getElementById('modalDescription');
-    const closeModal = document.getElementById('closeModal');
+        document.addEventListener("DOMContentLoaded", function() {
+            var projectTitles = document.querySelectorAll('.project-title');
+            var modal = document.getElementById('projectModal');
+            var modalTitle = document.getElementById('modalTitle');
+            var modalDescription = document.getElementById('modalDescription');
+            var modalImage = document.getElementById('modalImage');
+            var closeModal = document.getElementById('closeModal');
 
-    projectTitles.forEach(title => {
-        title.addEventListener('click', () => {
-            const description = title.getAttribute('data-description');
-            const image = title.getAttribute('data-image');
-            const text = title.textContent;
+            projectTitles.forEach(function(title) {
+                title.addEventListener('click', function() {
+                    modalTitle.textContent = this.textContent;
+                    modalDescription.textContent = this.getAttribute('data-description');
+                    modalImage.src = this.getAttribute('data-image');
+                    modal.classList.remove('hidden');
+                });
+            });
 
-            modalImage.src = image;
-            modalTitle.textContent = text;
-            modalDescription.textContent = description;
+            closeModal.addEventListener('click', function() {
+                modal.classList.add('hidden');
+            });
 
-            modal.classList.remove('hidden');
+            window.addEventListener('click', function(event) {
+                if (event.target == modal) {
+                    modal.classList.add('hidden');
+                }
+            });
         });
-    });
-
-    closeModal.addEventListener('click', () => {
-        modal.classList.add('hidden');
-    });
-
-    modal.addEventListener('click', (e) => {
-        if (e.target === modal) {
-            modal.classList.add('hidden');
-        }
-    });
-});
-</script>
+    </script>
 
 </html>
 
